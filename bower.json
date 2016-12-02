@@ -1,0 +1,22 @@
+{
+    "name": "qtui",
+    "repository": {
+        "type": "git",
+        "url": "https://qtgit.qingtui.im/frontend/qt-mobile-ui.git"
+    },
+    "description": "wechat mobile ui",
+    "main": "dist/style/qtui.css",
+    "version": "0.4.3",
+    "authors": [
+        "wechat ui team"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "wechat",
+        "weixin",
+        "mobile",
+        "ui"
+    ],
+    "homepage": "https://qtgit.qingtui.im/frontend/qt-mobile-ui",
+    "ignore": []
+}
